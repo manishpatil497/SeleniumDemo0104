@@ -8,6 +8,9 @@ public class TestGit1 {
 		System.out.println("Sel1");
 		System.out.println("Sel2");
 		System.out.println("Sel3");
+		
+		System.out.println("Selenium 5");
+		System.out.println("Selenium 6");
 	}
 
 }

@@ -33,6 +33,7 @@ public class Test1 {
 		driver.findElement(By.xpath("//div[@class='country-select']")).click();
 		Thread.sleep(5000);
 		System.out.println("Quiting browser");
+		System.out.println("test1");
 		driver.quit();
 	}
 }
