@@ -1,4 +1,4 @@
-package testcases;
+package main.java.testcases;
 
 public class TestGit2 {
 
