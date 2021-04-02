@@ -19,5 +19,11 @@ public class TestGit2 {
 		System.out.println("Test2");
 		
 	}
+	
+	public static void test2() {
+		System.out.println("Test2-1");
+		System.out.println("Test2-2");
+		
+	}
 
 }
