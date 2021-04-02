@@ -2,6 +2,7 @@ package testcases;
 
 import java.util.concurrent.TimeUnit;
 
+import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -35,5 +36,15 @@ public class Test1 {
 		System.out.println("Quiting browser");
 		System.out.println("test1");
 		driver.quit();
+	}
+	
+	@Test
+	public void test2() {
+		System.out.println("test2-1");
+	}
+	
+	@Test
+	public void test3() {
+		System.out.println("test3-1");
 	}
 }
